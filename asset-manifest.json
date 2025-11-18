@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NASA-picture-of-the-day-React-Web-App/static/css/main.7fdc2caf.css",
+    "main.js": "/NASA-picture-of-the-day-React-Web-App/static/js/main.4d55d096.js",
+    "static/js/453.1bfdb735.chunk.js": "/NASA-picture-of-the-day-React-Web-App/static/js/453.1bfdb735.chunk.js",
+    "index.html": "/NASA-picture-of-the-day-React-Web-App/index.html",
+    "main.7fdc2caf.css.map": "/NASA-picture-of-the-day-React-Web-App/static/css/main.7fdc2caf.css.map",
+    "main.4d55d096.js.map": "/NASA-picture-of-the-day-React-Web-App/static/js/main.4d55d096.js.map",
+    "453.1bfdb735.chunk.js.map": "/NASA-picture-of-the-day-React-Web-App/static/js/453.1bfdb735.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fdc2caf.css",
+    "static/js/main.4d55d096.js"
+  ]
+}
